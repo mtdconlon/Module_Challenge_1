@@ -23,7 +23,7 @@ Acceptance Criteria
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
     
-![example image](assets/images/social-media-marketing.png)
+![example image](/assets/images/social-media-marketing.jpg)
 
 ## License
 The licence assigned to this project is GPL-3.0 license.
