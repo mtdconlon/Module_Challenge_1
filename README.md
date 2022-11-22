@@ -1,4 +1,4 @@
-# <HORISEON Single Solution Services Module Challenge 1>
+# HORISEON Single Solution Services Module Challenge 1
 
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
@@ -22,9 +22,8 @@ Acceptance Criteria
 ## Usage
 Provide instructions and examples for use. Include screenshots as needed.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![example image](assets/images/social-media-marketing.png)
-    ```
+    
+![example image](assets/images/social-media-marketing.png)
 
 ## License
 The licence assigned to this project is GPL-3.0 license.
