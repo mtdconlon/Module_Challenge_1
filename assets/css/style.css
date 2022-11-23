@@ -24,7 +24,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*header nav (formerly div)*/
+/*header nav style(formerly div)*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,11 +32,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*header nav ul(formerly div ul)*/
+/*header nav ul style(formerly div ul)*/
 .header nav ul {
     list-style-type: none;
 }
-/*header nav ul li(formerly div ul li)*/
+/*header nav ul li style(formerly div ul li)*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*hero style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*img positioning style*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*img positioning style*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*content style*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*benefits style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer*/
 .footer {
     padding: 30px;
     clear: both;

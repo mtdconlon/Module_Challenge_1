@@ -1,11 +1,10 @@
 # HORISEON Single Solution Services Module Challenge 1
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This modules challenge involves a very important aspect of web development: **accessibility**.
+
+Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
+
 
 **User Story**
 - AS A marketing agency.
@@ -19,8 +18,15 @@ Provide a short description explaining the what, why, and how of your project. U
 - Heading attributes fall in sequential order.
 - Title elements contain a concise, descriptive title.
 
+## Deployment Links
+**Submission URL**
+- INSERT LINK HERE
+
+**GitHub Repo URL**
+- INSERT LINK HERE
+
 ## Screenshot
-![example image](/assets/images/social-media-marketing.jpg)
+![example image](/assets/images/horiseon_social_solution_services_webpage_screenshot.png)
 
 ## License
 The licence assigned to this project is GPL-3.0 license.
