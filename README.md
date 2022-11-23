@@ -20,10 +20,10 @@ Web accessibility is an increasingly important consideration for businesses. It 
 
 ## Deployment Links
 **Submission URL**
-- INSERT LINK HERE
+- https://mtdconlon.github.io/mtdconlon_module_challenge_1/
 
 **GitHub Repo URL**
-- INSERT LINK HERE
+- https://mtdconlon.github.io/mtdconlon_module_challenge_1/
 
 ## Screenshot
 ![example image](/assets/images/horiseon_social_solution_services_webpage_screenshot.png)
