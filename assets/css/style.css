@@ -42,12 +42,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*font style*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*font style*/
 p {
     font-size: 16px;
 }
@@ -121,14 +121,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*footer*/
+/*footer style*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*footer h2 style*/
 .footer h2 {
     font-size: 20px;
 }
